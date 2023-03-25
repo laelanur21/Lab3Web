@@ -1,0 +1,54 @@
+/* css idex.php */
+* {
+    font-family: "Trebuchet MS";
+  }
+  
+  h1 {
+    text-transform: uppercase;
+    color: #2f805a;
+  }
+  
+  table {
+    border: solid 1px #DDEEEE;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 70%;
+    margin: 10px auto 10px auto;
+  }
+  
+  table thead th {
+    background-color: #DDEFEF;
+    border: solid 1px #DDEEEE;
+    color: #2f805a;
+    padding: 10px;
+    text-align: left;
+    text-shadow: 1px 1px 1px #fff;
+    text-decoration: none;
+  }
+  
+  table tbody td {
+    border: solid 1px #DDEEEE;
+    color: #333;
+    padding: 10px;
+    text-shadow: 1px 1px 1px #fff;
+  }
+  
+  /* style tambah.php */
+  label {
+    margin-top: 10px;
+    float: left;
+    text-align: left;
+    width: 100%;
+  }
+  
+  input {
+    padding: 6px;
+    width: 30%;
+    box-sizing: border-box;
+    background: #f8f8f8;
+    border: 2px solid #ccc;
+    outline-color: salmon;
+    border-radius: 5px;
+  }
+  
+  
